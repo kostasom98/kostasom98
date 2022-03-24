@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kostasom98
 - 👀 I’m interested in Programming in C,Python
 - 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (viber:+306971675755, email:omorfopoulosk@gmail.com, linkedin:linkedin.com/in/konstantinos-omorfopoulos-5a94ab211)
 
 <!---
